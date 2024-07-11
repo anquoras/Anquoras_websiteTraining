@@ -8,6 +8,7 @@
             <a href="admin_page.php">add products</a>
             <a href="products.php">view products</a>
             <a href="users.php">manage user</a>
+            <a href="feedback_mng.php">view feedback</a>
         </nav>
 
         <?php
