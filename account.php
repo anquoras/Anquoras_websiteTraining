@@ -30,7 +30,7 @@ if (isset($_GET['logout'])) {
         <ul>
             <li><a href="home.php"><i class="fas fa-qrcode"></i>Store</a></li>
             <li><a href="about.html"><i class="fas fa-question-circle"></i>About</a></li>
-            <li><a href="#"><i class="fas fa-comments"></i>Feedback</a></li>
+            <li><a href="feedback.php"><i class="fas fa-comments"></i>Feedback</a></li>
         </ul>
         <div class="media_icons">
             <a href="https://www.facebook.com/AresQa0611"><i class="fab fa-facebook-f"></i></a>
